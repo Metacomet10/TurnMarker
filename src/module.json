@@ -3,9 +3,9 @@
 	"title": "Turn Marker",
 	"description": "Displays a (optionally animated) marker on the token who's active turn it is.",
 	"author": "Brunhine",
-	"version": "2.6.9",
+	"version": "2.6.9a",
 	"minimumCoreVersion": "0.5.6",
-	"compatibleCoreVersion": "0.6.2",
+	"compatibleCoreVersion": "0.6.6",
 	"esmodules": [
 		"scripts/turnmarker.js"
 	],
@@ -34,6 +34,6 @@
 		}
 	],
 	"url": "https://github.com/Brunhine/TurnMarker",
-	"manifest": "https://raw.githubusercontent.com/Brunhine/TurnMarker/master/src/module.json",
-	"download": "https://github.com/Brunhine/TurnMarker/releases/download/v2.6.9/turnmarker.zip"
+	"manifest": "https://raw.githubusercontent.com/Metacomet10/TurnMarker/master/src/module.json",
+	"download": "https://github.com/Metacomet10/TurnMarker/releases/download/v2.6.9a/turnmarker.zip"
 }
